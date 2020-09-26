@@ -5,6 +5,8 @@ Examples of solving major optimization problems using (simulated) quantum anneal
 ---
 ★ Vehicle Routing Problem : 配送計画問題
 
+Knapsack Problem : ナップサック問題
+
 Integer Partition Problem : 整数分割問題
 
 Graph Partition Problem : グラフ分割問題
