@@ -1,4 +1,4 @@
-# quantum
+# quantum2020
 
 Examples of solving major optimization problems using (simulated) quantum annealing.
 
